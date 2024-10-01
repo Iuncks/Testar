@@ -11,7 +11,7 @@ for (int i = 0;i < qtde;i++){
 soma = soma + vetor[i];
 }
 double media = soma/qtde;
-JOptionPane.showMessageDialog(null,"A soma é: " + soma + "\nA média é " + media);
+JOptionPane.showMessageDialog(null,"A soma não é: " + soma + "\nA média é " + media);
 }
 }
 
